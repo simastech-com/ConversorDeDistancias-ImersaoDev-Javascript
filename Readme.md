@@ -1,4 +1,4 @@
-## Conversor de Distancias Astronômicas
+## Conversor de Distâncias Astronômicas
 
 <img src="https://github.com/simastech-com/ConversorDeDistancias-ImersaoDev-Javascript/blob/main/img/splash.png" width="600">
 
