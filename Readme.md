@@ -20,6 +20,7 @@ As melhorias são itens incluídos no projeto e que não foram solicitados na pr
     <li>Inclusão do nome do usuário.</li>
     <li>Interações do usuário no corpo da página.</li>
     <li>Alterações de css e inclusão de imagens localmente.</li>
+    <li>Inclusão de favicon.</li>
 </ul>
 
 # Visualização
